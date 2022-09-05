@@ -2,10 +2,10 @@
 
 ---
 
-### Category Name 1 
+**Logistic Regression**
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Titanic - Machine Learning from Disaster](/sample_page)
+<img src="images/Titanic.jpg.webp"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
